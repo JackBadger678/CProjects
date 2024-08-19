@@ -1,0 +1,3 @@
+The previous testing file was not saved???
+
+This one was again created in CProjects/.git folder. I will figure that out.
