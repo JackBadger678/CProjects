@@ -1,0 +1,13 @@
+Must include   '#include <stdio.h>'  as the first line
+  - this include the input output functions for C language
+
+
+To compile after writing
+  - gcc helloworld.c -o helloworld
+
+    gcc: Invokes the GCC compiler.
+    helloworld.c: Specifies the input C file.
+    -o helloworld: Tells the compiler to create an executable file named hello.
+
+To change execution privileges on the file
+    chmod +x helloworld
